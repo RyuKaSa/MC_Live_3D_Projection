@@ -357,7 +357,7 @@ MonoBehaviour:
   detectorPrefab: {fileID: 6088277569765263433, guid: 1710b3c7c45b40e40a5088a87c487d41, type: 3}
   gridSize: 50
   cubeSize: 1
-  checkInterval: 0.1
+  checkInterval: 0.2
 --- !u!114 &1174823488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -372,7 +372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rotatingCubePrefab: {fileID: 5444517225929836823, guid: 7406d6c24b4b63843ab2165581e93875, type: 3}
   cubePosition: {x: 25, y: 25, z: 25}
-  cubeSize: 25
+  cubeSize: 28
   rotationSpeed: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
